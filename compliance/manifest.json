@@ -1,0 +1,12 @@
+{
+  "description": "Data App dashboard for compliance",
+  "entries": [
+    {
+      "description": "Description of dashboard goes here. Amet minim mollit non deserunt ullamco est sit aliqua dolor do amet sint. Velit officia consequat duis enim velit mollit. Exercitation veniam consequat sunt Amet minim mollit non deserunt ullamco est sit aliqua dolor do amet sint. Velit officia consequat duis enim velit mollit. Exercitation veniam consequat sunt.",
+      "integrations": ["IBM", "Common"],
+      "name": "DigiFlight - Compliance",
+      "path": "digi-flight.json"
+    }
+  ],
+  "name": "Compliance"
+}

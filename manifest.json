@@ -1,0 +1,22 @@
+{
+  "name": "Concert workflows",
+  "description": "Workflows used in concert scenarios",
+  "categories": [
+    {
+      "name": "Compliance",
+      "path": "compliance"
+    },
+    {
+      "name": "Resilience",
+      "path": "resilience"
+    },
+    {
+      "name": "Vulnerability",
+      "path": "vulnerability"
+    },
+    {
+      "name": "Observability",
+      "path": "observability"
+    }
+  ]
+}
