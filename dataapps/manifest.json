@@ -7,6 +7,10 @@
       "path": "compliance"
     },
     {
+      "name": "Getting started",
+      "path": "getting-started"
+    },
+    {
       "name": "Resilience",
       "path": "resilience"
     },
