@@ -4,27 +4,27 @@
     {
       "description": "Description of dashboard goes here. Amet minim mollit non deserunt ullamco est sit aliqua dolor do amet sint. Velit officia consequat duis enim velit mollit. Exercitation veniam consequat sunt Amet minim mollit non deserunt ullamco est sit aliqua dolor do amet sint. Velit officia consequat duis enim velit mollit. Exercitation veniam consequat sunt.",
       "integrations": ["IBM", "Common"],
-      "name": "Visualize CVE Highlights - getting started",
+      "name": "Visualize CVE Highlight",
       "path": "01-visualize-cve-highlights.json"
     },
     {
       "description": "Description of dashboard goes here. Amet minim mollit non deserunt ullamco est sit aliqua dolor do amet sint. Velit officia consequat duis enim velit mollit. Exercitation veniam consequat sunt Amet minim mollit non deserunt ullamco est sit aliqua dolor do amet sint. Velit officia consequat duis enim velit mollit. Exercitation veniam consequat sunt.",
       "integrations": ["IBM", "Common"],
-      "name": "Connect a Full Grid to List Concert's Applications - getting started",
+      "name": "Connect a Full Grid to List Concert's Application",
       "path": "02-connect-a-full-grid-to-list-concerts-applications.json"
     },
     {
       "description": "Description of dashboard goes here. Amet minim mollit non deserunt ullamco est sit aliqua dolor do amet sint. Velit officia consequat duis enim velit mollit. Exercitation veniam consequat sunt Amet minim mollit non deserunt ullamco est sit aliqua dolor do amet sint. Velit officia consequat duis enim velit mollit. Exercitation veniam consequat sunt.",
       "integrations": ["IBM", "Common"],
-      "name": "Visualize CVEs by Priority (Stacked Chart)  - getting started",
+      "name": "Visualize CVEs by Priority (Stacked Chart)",
       "path": "03-visualize-cves-by-priority.json"
     },
     {
       "description": "Description of dashboard goes here. Amet minim mollit non deserunt ullamco est sit aliqua dolor do amet sint. Velit officia consequat duis enim velit mollit. Exercitation veniam consequat sunt Amet minim mollit non deserunt ullamco est sit aliqua dolor do amet sint. Velit officia consequat duis enim velit mollit. Exercitation veniam consequat sunt.",
       "integrations": ["IBM", "Common"],
-      "name": "Visualize CVEs grouped by Priority (Pie Chart) - getting started",
+      "name": "Visualize CVEs grouped by Priority (Pie Chart",
       "path": "04-visualize-cves-grouped-by-priority.json"
     }
   ],
-  "name": "getting-started"
+  "name": "Getting started"
 }
