@@ -1,29 +1,47 @@
 {
-  "description": "Data App dashboard for getting started",
+  "description": "Getting Started Templates",
   "entries": [
     {
-      "description": "Description of dashboard goes here. Amet minim mollit non deserunt ullamco est sit aliqua dolor do amet sint. Velit officia consequat duis enim velit mollit. Exercitation veniam consequat sunt Amet minim mollit non deserunt ullamco est sit aliqua dolor do amet sint. Velit officia consequat duis enim velit mollit. Exercitation veniam consequat sunt.",
+      "description": "Configure a Summary KPI displaying total vulnerability findings from Concert's highlights endpoint.",
       "integrations": ["IBM", "Common"],
-      "name": "Visualize CVE Highlight",
-      "path": "01-visualize-cve-highlights.json"
+      "name": "Total Findings Summary (KPI)",
+      "path": "01-total-findings-summary-kpi.json"
     },
     {
-      "description": "Description of dashboard goes here. Amet minim mollit non deserunt ullamco est sit aliqua dolor do amet sint. Velit officia consequat duis enim velit mollit. Exercitation veniam consequat sunt Amet minim mollit non deserunt ullamco est sit aliqua dolor do amet sint. Velit officia consequat duis enim velit mollit. Exercitation veniam consequat sunt.",
+      "description": "Configure a Gauge KPI visualizing CVE severity levels from Concert's highlights endpoint.",
       "integrations": ["IBM", "Common"],
-      "name": "Connect a Full Grid to List Concert's Application",
-      "path": "02-connect-a-full-grid-to-list-concerts-applications.json"
+      "name": "CVE Highlights Gauge (KPI)",
+      "path": "02-cve-highlights-gauge.json"
     },
     {
-      "description": "Description of dashboard goes here. Amet minim mollit non deserunt ullamco est sit aliqua dolor do amet sint. Velit officia consequat duis enim velit mollit. Exercitation veniam consequat sunt Amet minim mollit non deserunt ullamco est sit aliqua dolor do amet sint. Velit officia consequat duis enim velit mollit. Exercitation veniam consequat sunt.",
+      "description": "Connect a Full Grid component to display Concert's application inventory with sortable columns.",
       "integrations": ["IBM", "Common"],
-      "name": "Visualize CVEs by Priority (Stacked Chart)",
-      "path": "03-visualize-cves-by-priority.json"
+      "name": "Applications Grid",
+      "path": "03-applications-grid.json"
     },
     {
-      "description": "Description of dashboard goes here. Amet minim mollit non deserunt ullamco est sit aliqua dolor do amet sint. Velit officia consequat duis enim velit mollit. Exercitation veniam consequat sunt Amet minim mollit non deserunt ullamco est sit aliqua dolor do amet sint. Velit officia consequat duis enim velit mollit. Exercitation veniam consequat sunt.",
+      "description": "Transform application findings into a pie chart grouped by vulnerability priority levels.",
       "integrations": ["IBM", "Common"],
-      "name": "Visualize CVEs grouped by Priority (Pie Chart",
-      "path": "04-visualize-cves-grouped-by-priority.json"
+      "name": "Findings by Priority Pie Chart",
+      "path": "04-pie-chart-findings-by-priority.json"
+    },
+    {
+      "description": "Visualize CVE distribution across applications using a stacked bar chart grouped by priority.",
+      "integrations": ["IBM", "Common"],
+      "name": "Apps by Priority Stacked Chart",
+      "path": "05-stacked-chart-apps-by-priority.json"
+    },
+    {
+      "description": "Store selected values in global context variables to dynamically update multiple widgets.",
+      "integrations": ["IBM", "Common"],
+      "name": "Widget Context Passing",
+      "path": "06-passing-values-app-context.json"
+    },
+    {
+      "description": "Create interactive charts and graphs by mapping data fields to visualization components.",
+      "integrations": ["IBM", "Common"],
+      "name": "Visualizations Overview",
+      "path": "07-visualizations-overview.json"
     }
   ],
   "name": "Getting started"

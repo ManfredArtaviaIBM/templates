@@ -1,0 +1,24 @@
+{
+  "description": "Sample Templates",
+  "entries": [
+    {
+      "description": "Identify CVE-impacted applications and owners for faster triage and coordinated remediation.",
+      "integrations": ["IBM", "Common"],
+      "name": "Vulnerability | CVE Search & Remediation",
+      "path": "01-vulnerability-cve-search-remediation.json"
+    },
+    {
+      "description": "Identify packages with denied licenses that present compliance or security risks.",
+      "integrations": ["IBM", "Common"],
+      "name": "Software Composition | Denied License Packages",
+      "path": "02-software-composition-denied-licenses.json"
+    },
+    {
+      "description": "Monitor security compliance, track posture assessments, and manage controls across environments.",
+      "integrations": ["IBM", "Common"],
+      "name": "Compliance | Controls Management",
+      "path": "03-compliance-controls-management.json"
+    }
+  ],
+  "name": "Samples"
+}
