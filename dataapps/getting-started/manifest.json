@@ -3,43 +3,36 @@
   "entries": [
     {
       "description": "Configure a Summary KPI displaying total vulnerability findings from Concert's highlights endpoint.",
-      "integrations": ["IBM", "Common"],
       "name": "Total Findings Summary (KPI)",
       "path": "01-total-findings-summary-kpi.json"
     },
     {
       "description": "Configure a Gauge KPI visualizing CVE severity levels from Concert's highlights endpoint.",
-      "integrations": ["IBM", "Common"],
       "name": "CVE Highlights Gauge (KPI)",
       "path": "02-cve-highlights-gauge.json"
     },
     {
       "description": "Connect a Full Grid component to display Concert's application inventory with sortable columns.",
-      "integrations": ["IBM", "Common"],
       "name": "Applications Grid",
       "path": "03-applications-grid.json"
     },
     {
       "description": "Transform application findings into a pie chart grouped by vulnerability priority levels.",
-      "integrations": ["IBM", "Common"],
       "name": "Findings by Priority Pie Chart",
       "path": "04-pie-chart-findings-by-priority.json"
     },
     {
       "description": "Visualize CVE distribution across applications using a stacked bar chart grouped by priority.",
-      "integrations": ["IBM", "Common"],
       "name": "Apps by Priority Stacked Chart",
       "path": "05-stacked-chart-apps-by-priority.json"
     },
     {
       "description": "Store selected values in global context variables to dynamically update multiple widgets.",
-      "integrations": ["IBM", "Common"],
       "name": "Widget Context Passing",
       "path": "06-passing-values-app-context.json"
     },
     {
       "description": "Create interactive charts and graphs by mapping data fields to visualization components.",
-      "integrations": ["IBM", "Common"],
       "name": "Visualizations Overview",
       "path": "07-visualizations-overview.json"
     }
