@@ -15,6 +15,16 @@
       "description": "Identify CVE-impacted applications and owners for faster triage and coordinated remediation.",
       "name": "Vulnerability | CVEs Search & Remediation",
       "path": "03-vulnerability-cves-search-remediation.json"
+    },
+    {
+      "description": "Review the CVEs affecting each application, filtering by state, fix availability, and age, then drill into CVE details.",
+      "name": "Vulnerability | Application CVEs",
+      "path": "04-vulnerability-application-cves.json"
+    },
+    {
+      "description": "Prioritize CVE remediation by fix availability and deadlines, with risk breakdowns and impacted applications.",
+      "name": "Vulnerability | CVEs Fix",
+      "path": "05-vulnerability-cves-fix.json"
     }
   ],
   "name": "Samples"
